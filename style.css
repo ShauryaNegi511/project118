@@ -1,0 +1,25 @@
+body{
+    background-color: greenyellow;
+
+}
+
+#show_sketch
+{
+float:right;
+}
+#timer {
+    float: right;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    margin-right: 5px;
+}
+p{
+    font-size: 25px;
+    font-family:'Oswald', sans-serif ;
+    color: black;
+}
+#sketch_to_be_drawn{
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    color: red;
+}
